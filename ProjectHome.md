@@ -1,0 +1,5 @@
+Our Aim is to create a Distributed Architecture for Complex Event Processing Systems (CEP) with support for Scalablility and Fault Tolerance. The architecture would be a platform where multiple event processing agents work supportively in forming a distributed system which is scalable in the scopes of both events and triggers. The system inherently handles the aspects of fault tolerance which is an integral part of any distributed system.
+
+The need for a Scalable architecture for complex event processing was initiated by the fact that the number of events that modern complex event processing systems had to process differed from a few hundred per hour to several hundred thousand per minute. The number of events and triggers being processed is only determined by the use of the event processing system and the scale of the company which uses it.
+
+The project, which was based on a concept originally proposed by Mr. Manusha Wijekoon is a final year project researched and developed by four students of the Computer Science and Engineering Department of University of Moratuwa, Sri lanka.
